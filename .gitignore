@@ -1,0 +1,11 @@
+# Ignore the sounds folder
+sounds/
+
+# Ignore compiled or temp files
+*.tmp
+*.log
+*.yy~      # backup files for sprites, objects, etc.
+*.yyp~
+*.gmx~     # if using GMX projects
+.DS_Store  # macOS metadata
+Thumbs.db  # Windows metadata
