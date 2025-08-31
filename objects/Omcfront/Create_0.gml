@@ -13,6 +13,7 @@ esc_display = false; // whether to show the message
 ///////
 
 
+
 // Check if the current room is the Starting Room
 if (room == StartingRoom) {
     // Check if the soundtrack is already playing
